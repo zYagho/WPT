@@ -1,0 +1,15 @@
+O presente projeto foi desenvolvido em python e basicamente ele está apenas no começo ainda, então vamos ao que está pronto.
+
+    - A interface gráfica está praticamente pronta, talvez falta ajeitar um detalhe ou outro.
+    - Alguns botões necessitam ainda ser implementados, mas é preciso que as funções correspondentes sejam feitas antes.
+    - As funções que irão se ligar com a placa ainda não estão feitas
+
+Bibliotecas:
+
+    - Utilizei o PyQt6 para criar a interface.
+    - As Bibliotecas restantes, como a numpy e a matplotlib foram somente para plotar um gráfico "inicial", apenas para se ter 
+      uma noção de como irá ficar.
+
+
+
+Qualquer duvida sobre oq foi feito até o momento pode me mandar uma mensagem no Whats (44) 99722-5510, me chamo Yagho
